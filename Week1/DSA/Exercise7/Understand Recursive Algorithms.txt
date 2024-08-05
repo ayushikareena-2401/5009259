@@ -1,0 +1,5 @@
+Understand Recursive Algorithms
+Concept of Recursion
+Recursion: A technique where a function calls itself directly or indirectly to solve a problem. It simplifies problems by breaking them down into smaller, more manageable sub-problems that resemble the original problem.
+Base Case: The condition under which the recursion stops. Without a base case, recursion would result in an infinite loop.
+Recursive Case: The part of the function that includes the call to the function itself to solve a smaller instance of the problem.

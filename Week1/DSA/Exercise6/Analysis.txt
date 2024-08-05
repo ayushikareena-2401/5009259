@@ -1,0 +1,22 @@
+Analysis
+Time Complexity
+Linear Search:
+
+Worst Case: O(n) - When the element is at the end of the list or not present.
+Average Case: O(n) - On average, about half of the list needs to be checked.
+Best Case: O(1) - When the element is at the beginning of the list.
+Binary Search:
+
+Worst Case: O(log n) - The list is divided in half each time, leading to a logarithmic number of steps.
+Average Case: O(log n) - On average, it performs in logarithmic time.
+Best Case: O(1) - When the element is at the middle of the list initially.
+When to Use Each Algorithm
+Linear Search:
+
+Suitable for small datasets or when the data is unsorted.
+Useful when the overhead of sorting is not justified.
+Binary Search:
+
+Suitable for large datasets where the data is sorted.
+Provides significantly faster search times for sorted lists due to its logarithmic time complexity.
+Sorting overhead is justified for datasets with frequent searches.

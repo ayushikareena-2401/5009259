@@ -1,0 +1,5 @@
+Analysis
+Time Complexity
+The time complexity of the recursive algorithm is O(n), where n is the number of years. Each call to predictFutureValue decreases the years by one, leading to n recursive calls.
+Optimization
+Memoization: Store the results of previously computed subproblems to avoid redundant calculations. This technique transforms the recursive solution into a dynamic programming approach, reducing the time complexity.

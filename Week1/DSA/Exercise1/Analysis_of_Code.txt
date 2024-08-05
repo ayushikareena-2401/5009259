@@ -1,0 +1,8 @@
+Time Complexity
+Add Product: O(1) on average, as HashMap provides constant time complexity for insertion.
+Update Product: O(1) on average, since updating an entry in a HashMap is constant time.
+Delete Product: O(1) on average, as deleting an entry from a HashMap is constant time.
+
+Optimizations
+Load Factor Management: Ensure that the load factor of the HashMap is maintained appropriately to avoid excessive resizing, which can degrade performance.
+Concurrency: For a multi-threaded environment, use ConcurrentHashMap to ensure thread safety without compromising performance.

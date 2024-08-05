@@ -1,0 +1,6 @@
+Running the Test
+
+MobileApp received update: TechCorp - $150.75
+WebApp received update: TechCorp - $150.75
+MobileApp received update: TechCorp - $155.00
+WebApp received update: TechCorp - $155.00

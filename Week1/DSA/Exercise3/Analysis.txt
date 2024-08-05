@@ -1,0 +1,9 @@
+Analysis
+Time Complexity
+Bubble Sort: O(n^2) in the worst and average case, O(n) in the best case when the array is already sorted.
+Quick Sort: O(n log n) on average, O(n^2) in the worst case when the pivot selection is poor. However, with good pivot selection (e.g., using median-of-three or random pivot), the average time complexity remains O(n log n).
+Comparison and Preference
+Quick Sort is generally preferred over Bubble Sort because:
+Quick Sort has a significantly better average-case time complexity (O(n log n)) compared to Bubble Sort (O(n^2)).
+Quick Sort is more efficient for large datasets, making it suitable for real-world applications like e-commerce platforms where sorting efficiency is crucial.
+Bubble Sort is simple but inefficient for large datasets due to its quadratic time complexity.

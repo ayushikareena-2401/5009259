@@ -1,0 +1,12 @@
+Understand Linked Lists
+Types of Linked Lists
+Singly Linked List:
+
+Structure: Consists of nodes where each node contains data and a reference (or link) to the next node in the sequence.
+Advantages: Simplicity and lower memory usage compared to doubly linked lists.
+Disadvantages: Only allows traversal in one direction and does not allow direct access to previous nodes.
+Doubly Linked List:
+
+Structure: Each node contains data, a reference to the next node, and a reference to the previous node.
+Advantages: Allows traversal in both directions and more efficient operations such as insertion and deletion of nodes.
+Disadvantages: Increased memory usage due to storing an extra reference (previous node).

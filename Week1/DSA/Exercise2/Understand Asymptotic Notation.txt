@@ -1,0 +1,8 @@
+Understand Asymptotic Notation
+Big O Notation
+Big O notation is a mathematical notation that describes the upper bound of the time complexity of an algorithm. It helps in analyzing the performance and efficiency of algorithms, especially as the size of the input data grows. It provides a high-level understanding of the algorithm's performance by focusing on the worst-case scenario.
+
+Best, Average, and Worst-Case Scenarios for Search Operations
+Best Case: The scenario where the search operation performs the minimum number of comparisons. For example, finding the target element at the first position.
+Average Case: The scenario where the search operation performs an average number of comparisons, considering all possible positions of the target element.
+Worst Case: The scenario where the search operation performs the maximum number of comparisons. For example, finding the target element at the last position or not finding it at all.

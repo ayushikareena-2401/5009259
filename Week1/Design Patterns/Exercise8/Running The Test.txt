@@ -1,0 +1,4 @@
+Running The Test
+
+Paying $150 using Credit Card. Card Number: 1234-5678-9876-5432
+Paying $200 using PayPal. Email: user@example.com

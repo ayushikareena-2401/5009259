@@ -1,0 +1,5 @@
+Running The Test
+
+Sending email with message: Hello, World!
+Sending SMS with message: Hello, World!
+Sending Slack message with message: Hello, World!

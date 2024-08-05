@@ -1,0 +1,7 @@
+Analysis
+Time Complexity
+Linear Search: O(n) in the worst case, where n is the number of products. This is because it may need to check each element once.
+Binary Search: O(log n) in the worst case, where n is the number of products. This is because it repeatedly divides the search interval in half.
+Suitability
+Linear Search: More suitable for small datasets or unsorted data as it does not require the data to be sorted.
+Binary Search: More suitable for large datasets, provided the data is sorted. It is significantly faster than linear search for large datasets due to its logarithmic time complexity.

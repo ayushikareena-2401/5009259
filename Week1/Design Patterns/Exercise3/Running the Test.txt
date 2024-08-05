@@ -1,0 +1,4 @@
+Running the Test
+Basic Computer: Computer [CPU=Intel i5, RAM=8GB, Storage=256GB SSD, GraphicsCard=null, hasWiFi=false, hasBluetooth=false]
+Gaming Computer: Computer [CPU=Intel i9, RAM=16GB, Storage=1TB SSD, GraphicsCard=NVIDIA RTX 3080, hasWiFi=true, hasBluetooth=true]
+Minimal Computer: Computer [CPU=AMD Ryzen 3, RAM=4GB, Storage=128GB SSD, GraphicsCard=null, hasWiFi=false, hasBluetooth=true]

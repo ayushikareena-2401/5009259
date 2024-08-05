@@ -1,0 +1,8 @@
+Understand Array Representation
+How Arrays Are Represented in Memory
+Contiguous Memory Allocation: Arrays are stored in contiguous memory locations, meaning each element of the array is stored next to the other. This allows for efficient indexing and quick access to elements using their index.
+Indexing: The memory address of any element in the array can be calculated using the formula: address = base_address + (index * size_of_element). This allows for O(1) time complexity for accessing any element by its index.
+Advantages:
+Fast Access: Constant time access to elements using their index.
+Memory Efficiency: Arrays have no extra overhead for each element, unlike linked structures.
+Cache Friendly: Due to contiguous memory allocation, arrays are cache-friendly and can be processed faster by the CPU.

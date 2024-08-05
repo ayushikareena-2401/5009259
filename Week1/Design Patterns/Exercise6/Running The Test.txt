@@ -1,0 +1,7 @@
+Running The Test
+
+Loading image: image1.jpg from server...
+Displaying image: image1.jpg
+Displaying image: image1.jpg
+Loading image: image2.jpg from server...
+Displaying image: image2.jpg

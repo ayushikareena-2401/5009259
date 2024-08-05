@@ -1,0 +1,4 @@
+Running The Test
+
+Processing payment through PayPal: $100.0
+Charging payment through Stripe: $200.0

@@ -1,0 +1,14 @@
+Analysis
+Time Complexity
+Add Employee: O(1) - Adding an element to the end of an array is a constant-time operation.
+Search Employee: O(n) - In the worst case, you may need to search through the entire array to find the employee.
+Traverse Employees: O(n) - Traversing the array requires visiting each element once.
+Delete Employee: O(n) - In the worst case, you may need to shift all elements after the deleted element to the left.
+Limitations of Arrays
+Fixed Size: Arrays have a fixed size, which means you must know the maximum number of elements in advance. If the array is full, you cannot add more elements without resizing.
+Inefficient Deletions and Insertions: Deleting or inserting elements in the middle of an array requires shifting elements, which can be time-consuming.
+Wasted Space: If the array is not fully utilized, it can lead to wasted memory.
+When to Use Arrays
+Fast Access: When you need fast access to elements using their index.
+Static Data: When the number of elements is fixed or changes infrequently.
+Memory Efficiency: When you need a memory-efficient data structure without the overhead of pointers or extra data.
